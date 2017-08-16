@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bomb.png</file>
+        <file>connect.png</file>
+        <file>create.png</file>
+        <file>restart.png</file>
+        <file>stopconnection.png</file>
+        <file>stoplistening.png</file>
+        <file>warning.png</file>
+        <file>exit.png</file>
+    </qresource>
+</RCC>
